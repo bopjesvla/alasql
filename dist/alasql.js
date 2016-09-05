@@ -1,7 +1,7 @@
-//! AlaSQL v0.3.2 | © 2014-2016 Andrey Gershun & Mathias Rangel Wulff | License: MIT 
+//! AlaSQL v0.3.2-develop-1425 | © 2014-2016 Andrey Gershun & Mathias Rangel Wulff | License: MIT 
 /*
 @module alasql
-@version 0.3.2
+@version 0.3.2-develop-1425
 
 AlaSQL - JavaScript SQL database
 © 2014-2016	Andrey Gershun & Mathias Rangel Wulff
@@ -140,7 +140,7 @@ var alasql = function(sql, params, cb, scope) {
 	Current version of alasql 
  	@constant {string} 
 */
-alasql.version = '0.3.2';
+alasql.version = '0.3.2-develop-1425';
 
 /**
 	Debug flag
@@ -2852,7 +2852,7 @@ case 160:return 92
 break;
 case 161:return 16
 break;
-case 164:return 14
+case 162:return 364
 break;
 case 163:return 438
 break;
@@ -2890,7 +2890,7 @@ case 179:return 172
 break;
 case 180:return 172
 break;
-case 183:return 148
+case 181:return 225
 break;
 case 182:return 432
 break;
@@ -2980,7 +2980,7 @@ case 224:return 71
 break;
 case 225:return 431  /* Is this keyword required? */
 break;
-case 228:return 135
+case 226:return 130
 break;
 case 227:return 130
 break;
